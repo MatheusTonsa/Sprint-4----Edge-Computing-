@@ -92,7 +92,7 @@ LiquidCrystal_I2C.h	Controle do display LCD
 💻 Simulação no Wokwi
 
 🔗 Acesse o projeto completo:
-👉 https://wokwi.com/projects/442264817239768065
+👉 https://https://wokwi.com/projects/442258934652584961
 
 📸 Captura da Simulação
 
