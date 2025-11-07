@@ -3,12 +3,17 @@
 ⚽ Sistema de Registro e Pontuação de Jogadoras com LCD I2C
 🧩 Projeto desenvolvido para a disciplina Edge Computing - FIAP
 👥 Equipe
-Nome	RM
+
 Athur Alberini Soares Pereira	565954
+
 Fabio Pereira Rogério Júnior	564005
+
 Kauã Veloso Lima	561954
+
 Matheus Tonsa Martini	564454
+
 Sebastian Iriarte Gonzales	563619
+
 📖 Sobre o Projeto
 
 Este projeto tem como objetivo simular um sistema interativo de registro e pontuação de jogadoras de futebol, utilizando um display LCD I2C (20x4) e botões físicos conectados a um ESP32.
